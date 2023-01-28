@@ -1,0 +1,24 @@
+#navbarSupportedContent
+{
+    text-align: center;
+}
+.menu{
+    text-align: center;
+   margin-top: 10px;
+}
+.chicken{
+    text-align: center;
+    margin-top: 10px;
+}
+.container{
+    border: 2px solid white;margin-top: 100px;
+    background-color: #a19e9a;
+}
+.navbar-brand{
+    text-decoration: bold;
+}
+@media screen (max-width:500px) {
+    .container{
+        margin-left: 200px;
+    }
+}
